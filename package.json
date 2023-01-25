@@ -1,0 +1,25 @@
+{
+  "name": "graphql-auth-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElyesBenKhoud/graphQL-Auth-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElyesBenKhoud/graphQL-Auth-Server/issues"
+  },
+  "homepage": "https://github.com/ElyesBenKhoud/graphQL-Auth-Server#readme",
+  "dependencies": {
+    "apollo-server": "^3.11.1",
+    "graphql": "^16.6.0",
+    "mongoose": "^6.8.4"
+  }
+}
